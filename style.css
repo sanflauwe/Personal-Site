@@ -1,0 +1,87 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    gap: 10px;
+}
+
+#logo-header{
+    display: flex; 
+    align-items: center; 
+}
+
+.nav-link{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    color: black;
+}
+
+.home{
+    background : url(./images/background.png);
+    background-size: cover;
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    min-height: 70vh;
+}
+
+h1{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    color: black;
+    margin-left: 20px;
+}
+
+.lead{
+    margin-left: 20px;
+    font-family: "Bodoni Moda", serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #f1eaea;
+}
+
+.btn{
+    margin-left: 20px;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+h2{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    color: black;
+}
+
+.body{
+    font-family: "Bodoni Moda", serif;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+li{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: black;
+}
+
+h6{
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+}
+
+span{
+    font-family: "Bodoni Moda", serif;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.job-title{
+    font-family: "Bodoni Moda", serif;
+    font-weight: 400;
+    font-size: 12px;
+}
